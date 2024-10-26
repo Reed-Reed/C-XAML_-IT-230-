@@ -10,4 +10,5 @@ manages the GUI logic.
 
   **What I did well**
   
-   Any code I added is efficient and very readable. I take pride in writing code that looks nice to my eye in hopes it will be easier to read for fellow programmers. 
+   All code I added is efficient and very readable. I take pride in writing code that looks nice to my eye in hopes it will be easier to read for fellow programmers. 
+   I leave concise comments that usually describe a section of code instead of leaving comments on many lines; this gives a descriptor for the code block as well as keeping it more readable. 
